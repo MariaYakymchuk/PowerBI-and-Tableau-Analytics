@@ -21,9 +21,9 @@ The goal of this project is to analyze the financial performance of 10 airports 
 	•	Expenses per Passenger
 
 #### 3. Dashboard Creation in Power BI
-	**Key Metrics:**
+	Key Metrics:
 Added cards to provide an overview of total profit, number of flights, canceled flights, and passenger traffic for all airports.
-	**Passenger Traffic by Month:**
+	Passenger Traffic by Month:
 A bar chart visualizing the number of passengers for each month.
 	•	Profitability by Airport:
 A horizontal bar chart showing profitability for each airport.
@@ -34,5 +34,3 @@ A donut chart representing the ratio of total profit to expenses.
 	•	Interactive Filters:
 Added dropdown slicers for selecting “Airport Name” and “Month.”
 Configured the filters to apply across all dashboard elements for seamless interactivity.
-
-This project demonstrates how to transform raw data into actionable insights using Power BI, highlighting key financial metrics and enabling data-driven decision-making.
