@@ -54,3 +54,4 @@ To create an interactive Tableau dashboard analyzing sales performance across re
 	•	Presenting insights effectively for informed decision-making.
 
 This project illustrates the transformation of raw data into meaningful insights using advanced Tableau techniques.
+[View the Tableau Dashboard Online]([your_dashboard_url](https://public.tableau.com/app/profile/mariia.yakymchuk/viz/Mappe1_17311614575070/SalesDashboard))
