@@ -32,3 +32,30 @@ The goal of this project is to analyze the financial performance of 10 airports 
 - Added dropdown slicers for selecting **"Airport Name"** and **"Month"**.
   - Configured the filters to apply across all dashboard elements for seamless interactivity.
 Configured the filters to apply across all dashboard elements for seamless interactivity.
+
+## Part 2: Tableau 
+
+### Project Description: Tableau Sales Analysis Dashboard
+
+**Project Goal**
+
+To create an interactive Tableau dashboard analyzing sales performance across regions, product categories, and states. The project showcases skills in data visualization and business intelligence, offering actionable insights for decision-making.
+
+### Key Features of the Dashboard:
+	1.	Sales by Region
+	•	Distribution of sales across West, East, South, and Central regions.
+	2.	Sales Trends Over Time
+	•	Line chart showing sales trends from 2014 to 2017, highlighting yearly growth and seasonal patterns.
+	3.	Sales by Category and Sub-Category
+	•	Bar chart of sales for Furniture, Office Supplies, and Technology, with sub-category details.
+	4.	Sales by State
+	•	Geographic map displaying sales figures per state, highlighting high-performing areas like California.
+	5.	Interactive Filters
+	•	Slicers for category, region, and year for dynamic data exploration.
+
+### Skills Demonstrated:
+	•	Creating interactive Tableau dashboards.
+	•	Analyzing sales performance through geographic, temporal, and product-based segmentation.
+	•	Presenting insights effectively for informed decision-making.
+
+This project illustrates the transformation of raw data into meaningful insights using advanced Tableau techniques.
